@@ -1,4 +1,6 @@
 ## Hi there 👋
+🔭 I’m currently studying in UNSW 
+🌱 I’m currently learning Information Technology
 
 <!--
 **Zixi370719/Zixi370719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
