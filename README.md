@@ -38,8 +38,8 @@ You can use the test account username: [Cici] password: Cici or register a new o
 
 # Technology used
 
-## Frontend: React
-## Backend: Flask(RESTful API)
-## Database: Sqlite
-## Communication: HTTP Protocol
-## Authentication: JWT(JSON Web Token)
+*Frontend*: React
+*Backend*: Flask(RESTful API)
+*Database*: Sqlite
+*Communication*: HTTP Protocol
+*Authentication*: JWT(JSON Web Token)
