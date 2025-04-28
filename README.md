@@ -17,7 +17,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18324026&assignment_repo_type=AssignmentRepo)
+
 # Introduction
+# Features
+
+## 📈 User-Level Sentiment Analysis
+Analyse individual users' sentiment trends over time.
+
+## 🧠 Comprehensive Sentiment Classification
+Categorise social media posts into positive, negative, neutral, and extremist sentiments.
+
+## 📊 Visual Analytics Interface
+Provide an intuitive interface displaying sentiment trends and statistical summaries.
+
+## 📝 Text-Driven Analysis
+Track the impact of specific keywords or hashtags on user sentiment changes.
 
 # How to use
 ## First method:
